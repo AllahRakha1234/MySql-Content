@@ -1,0 +1,5 @@
+-- To restor the data as it was before the operation like delete, insert 
+-- and update use run the given 
+-- createdatabase file 
+-- given by the 
+-- instructor
